@@ -3238,6 +3238,62 @@
       },
       "status": "dispatched",
       "id": 12
+    },
+    {
+      "items": [
+        {
+          "title": "HP Pavilion 15-DK1056WM",
+          "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+          "price": 1099,
+          "discountPercentage": 6.18,
+          "rating": 4.43,
+          "stock": 89,
+          "brand": "HP Pavilion",
+          "category": "laptops",
+          "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+          "images": [
+            "https://i.dummyjson.com/data/products/10/1.jpg",
+            "https://i.dummyjson.com/data/products/10/2.jpg",
+            "https://i.dummyjson.com/data/products/10/3.jpg",
+            "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
+          ],
+          "productId": 10,
+          "quantity": 1,
+          "user": 4,
+          "id": 5
+        }
+      ],
+      "totalAmount": 1031,
+      "totalItems": 1,
+      "user": {
+        "email": "rasika.shirude@gmail.com",
+        "password": "Rasika1@",
+        "addresses": [
+          {
+            "name": "Rasika",
+            "email": "rasika.shirude@gmail.com",
+            "phone": "+919028090362",
+            "street": "201, Chandranil appt, Garmal, Sinhagad road",
+            "city": "Pune",
+            "state": "MAHARASHTRA",
+            "pinCode": "411041"
+          }
+        ],
+        "role": "user",
+        "id": 4
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Rasika",
+        "email": "rasika.shirude@gmail.com",
+        "phone": "+919028090362",
+        "street": "201, Chandranil appt, Garmal, Sinhagad road",
+        "city": "Pune",
+        "state": "MAHARASHTRA",
+        "pinCode": "411041"
+      },
+      "status": "pending",
+      "id": 13
     }
   ]
 }
